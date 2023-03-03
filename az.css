@@ -1,6 +1,8 @@
 h1{
   color: red;
   text-align: center;
+  border-radius: 20px;
+
   
 
 
@@ -8,10 +10,20 @@ h1{
 }
 
 img{
-  padding-bottom: 60px;
+  border-radius: 20px;
+  
   
   
 
 
 
 }
+
+p{
+  text-align: center;
+  color: blue;
+  border: 30p;
+}
+
+
+  
